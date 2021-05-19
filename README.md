@@ -1,7 +1,6 @@
 # &#9851; ReBox
 ![Header](Images/header.jpg)
 ## [Project Website](http://rebox.somee.com/)
-We will publish the website soon!
 ## [Project Introduction Website](https://simgesengun.github.io/rebox-website/)
 ## About Project
 Even though most of the people think that recycling is beneficial, only half of them knows the location of the recycling bins near them and does recycling.
